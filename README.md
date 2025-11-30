@@ -9,6 +9,7 @@ Este site reúne, em um só lugar, todo o material do curso de Gestão Estratég
 - Páginas dos módulos (`modulo-1.html` … `modulo-4.html`): resumo, capacidades-chave e links diretos para cada material.
 - Em cada documento ou guia há breadcrumb completo (Início › Módulos › Módulo X › Material) e botão “Versão para impressão (PDF)” para baixar/abrir o PDF correspondente.
 - Links externos são abertos em nova aba para manter a navegação no site.
+- Tabelas e blocos de código rolam horizontalmente em telas pequenas para preservar formatação sem quebrar o layout.
 
 ## Materiais disponíveis
 - Plano de curso: HTML e PDF.
