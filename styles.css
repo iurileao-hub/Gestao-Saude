@@ -452,6 +452,23 @@ code {
   border-radius: 6px;
 }
 
+.doc-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  overflow-x: auto;
+  max-width: 100%;
+  white-space: pre;
+}
+
+.doc-content pre code {
+  display: block;
+  background: transparent;
+  padding: 0;
+  white-space: inherit;
+}
+
 @media (min-width: 900px) {
   .hero {
     grid-template-columns: repeat(12, minmax(0, 1fr));
@@ -479,13 +496,17 @@ code {
   .doc-content table {
     display: block;
     width: 100%;
-    min-width: 720px;
-    max-width: none;
+    max-width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     overscroll-behavior-x: contain;
     touch-action: pan-x;
+  }
+
+  .doc-content th,
+  .doc-content td {
+    white-space: nowrap;
   }
 }
 
