@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="$if(doc_summary)$$doc_summary$$else$$title$$endif$">
+  <meta name="author" content="$if(author)$$author$$else$Iúri Leão$endif$">
+  <title>$title$ | Gestão Estratégica em Saúde</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <nav class="nav-bar" aria-label="Navegação principal">
+      <div class="nav-top">
+        <a class="brand" href="index.html">Gestão Estratégica em Saúde</a>
+        <div class="nav-links">
+          <a href="plano-de-curso.html">Plano</a>
+          <a href="index.html#modulos">Módulos</a>
+        </div>
+      </div>
+      <div class="breadcrumbs" aria-label="Trilha de navegação">
+        <a href="index.html">Início</a>
+        $if(module_title)$
+        <span aria-hidden="true">›</span>
+        <a href="index.html#modulos">Módulos</a>
+        <span aria-hidden="true">›</span>
+        $if(module_url)$<a href="$module_url$">$module_title$</a>$else$<span>$module_title$</span>$endif$
+        $elseif(crumb_parent_text)$
+        <span aria-hidden="true">›</span>
+        $if(crumb_parent_url)$<a href="$crumb_parent_url$">$crumb_parent_text$</a>$else$<span>$crumb_parent_text$</span>$endif$
+        $endif$
+        <span aria-hidden="true">›</span>
+        <span aria-current="page">$if(breadcrumb_text)$$breadcrumb_text$$else$$title$$endif$</span>
+      </div>
+    </nav>
+  </header>
+
+  <main id="conteudo" class="page">
+    <section class="doc-hero">
+      <p class="pill">$if(doc_type)$$doc_type$$else$Material de referência$endif$</p>
+      <h1>$title$</h1>
+      $if(doc_summary)$<p>$doc_summary$</p>$endif$
+      $if(print_link)$
+      <div class="actions">
+        <a class="btn secondary" href="$print_link$" target="_blank" rel="noopener">Versão para impressão (PDF)</a>
+      </div>
+      $endif$
+    </section>
+
+    <article class="doc-content">
+    $body$
+    </article>
+
+  </main>
+</body>
+</html>
