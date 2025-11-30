@@ -8,6 +8,7 @@ Este site reúne, em um só lugar, todo o material do curso de Gestão Estratég
 - Plano de curso (`plano-de-curso.html`): objetivos, ementa, cronograma e bibliografia.
 - Páginas dos módulos (`modulo-1.html` … `modulo-4.html`): resumo, capacidades-chave e links diretos para cada material.
 - Em cada documento ou guia há breadcrumb completo (Início › Módulos › Módulo X › Material) e botão “Versão para impressão (PDF)” para baixar/abrir o PDF correspondente.
+- Links externos são abertos em nova aba para manter a navegação no site.
 
 ## Materiais disponíveis
 - Plano de curso: HTML e PDF.
@@ -21,5 +22,5 @@ Este site reúne, em um só lugar, todo o material do curso de Gestão Estratég
 - `modulo*-*.html` e `plano-de-curso.html`: gerados a partir dos Markdown (via pandoc).
 - `modulo-1.html` … `modulo-4.html`: páginas de navegação de cada módulo.
 - `styles.css`: tema visual.
-- `doc-template.html5`: template usado nas conversões; já inclui metadados, botão de impressão e favicon, e aceita `module_title`, `module_url` e `breadcrumb_text` para preencher a trilha de navegação.
+- `doc-template.html5`: template usado nas conversões; já inclui metadados, botão de impressão e favicon, aceita `module_title`, `module_url` e `breadcrumb_text` para preencher a trilha de navegação, e força links externos a abrirem em nova aba com `rel=\"noopener noreferrer\"`.
 - `favicon.svg`: ícone usado no site.

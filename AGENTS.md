@@ -43,3 +43,4 @@ Contributor quick-start for maintaining the course materials stored here.
 - Referências bibliográficas dos módulos 1–3 com links “Acesso externo” em nova aba.
 - Badges de “Em desenvolvimento” posicionados no canto inferior direito dos cards pendentes.
 - Navegação ajustada com `scroll-margin-top` em headings para ancoragem correta.
+- Links externos padronizados para abrir em nova aba com `target=\"_blank\"` e `rel=\"noopener noreferrer\"`; template `doc-template.html5` aplica o comportamento automaticamente.

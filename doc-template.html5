@@ -54,5 +54,16 @@
     </article>
 
   </main>
+  <script>
+    // Open external links in a new tab while keeping internal navigation unchanged
+    document.querySelectorAll('a[href^="http"]').forEach((link) => {
+      if (!link.getAttribute('target')) {
+        link.setAttribute('target', '_blank');
+      }
+      if (!link.getAttribute('rel')) {
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  </script>
 </body>
 </html>

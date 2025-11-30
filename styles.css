@@ -475,6 +475,18 @@ code {
     flex-wrap: wrap;
     justify-content: flex-end;
   }
+
+  .doc-content table {
+    display: block;
+    width: 100%;
+    min-width: 720px;
+    max-width: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+    touch-action: pan-x;
+  }
 }
 
 @media (max-width: 640px) {
