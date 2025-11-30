@@ -15,8 +15,8 @@ Este site reúne, em um só lugar, todo o material do curso de Gestão Estratég
 - Plano de curso: HTML e PDF.
 - Módulo 1: documento de referência, guia prático e slides (PDF).
 - Módulo 2: documento de referência e guia prático.
-- Módulo 3: documento de referência.
-- Módulo 4: documento de referência.
+- Módulo 3: documento de referência e guia prático.
+- Módulo 4: documento de referência e guia prático.
 
 ## Estrutura de arquivos (para quem precisar editar)
 - `assets/`: originais em Markdown e PDFs.

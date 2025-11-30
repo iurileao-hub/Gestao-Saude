@@ -168,40 +168,19 @@ Estas capacidades definem o perfil do gestor estratégico em saúde. Desenvolva-
 
 **Três movimentos cognitivos:**
 
-1. **Identificar arquitetura invisível**
-   - Incentivos implícitos
-   - Normas culturais não escritas
-   - Padrões de comunicação reais (vs. oficiais)
+1. **Identificar arquitetura invisível** - Incentivos implícitos, normas culturais não escritas, padrões de comunicação reais (vs. oficiais)
 
-2. **Traçar efeitos de 2ª e 3ª ordem**
-   - Decisão → consequência direta → consequência indireta → consequência sistêmica
-   - Exemplo: contratar mais médicos → custos com pessoal → menos investimento em infraestrutura → dificuldade de retenção → rotatividade alta
+2. **Traçar efeitos de 2ª e 3ª ordem** - Decisão → consequência direta → consequência indireta → consequência sistêmica
 
-3. **Reconhecer trade-offs genuínos**
-   - Escolher uma estratégia = renunciar a outras
-   - Recursos finitos, atenção gerencial escassa
+3. **Reconhecer trade-offs genuínos** - Escolher uma estratégia = renunciar a outras; recursos finitos, atenção gerencial escassa
 
 **Loop causal PMDF:**
 
 ```
-Subdimensionamento
-    ↓
-Alta terceirização
-    ↓
-90% orçamento consumido
-    ↓
-Baixo investimento em infraestrutura
-    ↓
-Dificuldade de retenção de talentos
-    ↓
-[volta ao] Subdimensionamento
+Subdimensionamento → Alta terceirização → 90% orçamento consumido
+→ Baixo investimento em infraestrutura → Dificuldade de retenção
+→ [volta ao] Subdimensionamento
 ```
-
-**Autoavaliação:**
-
-- [ ] Consigo mapear loops causais no meu sistema?
-- [ ] Evito buscar "culpados" individuais para problemas sistêmicos?
-- [ ] Reconheço que soluções parciais podem não resolver problemas estruturais?
 
 ---
 
@@ -211,45 +190,23 @@ Dificuldade de retenção de talentos
 
 **Três competências:**
 
-1. **Identificar stakeholders afetados**
-   - Quem experimenta o problema?
-   - Pacientes, profissionais, gestores, financiadores?
-   - Cada grupo vivencia de forma diferente
+1. **Identificar stakeholders afetados** - Quem experimenta o problema? Cada grupo vivencia de forma diferente
 
-2. **Analisar mecanismos de manutenção**
-   - O que perpetua o problema ao longo do tempo?
-   - Que estruturas, incentivos ou crenças fazem o problema persistir?
+2. **Analisar mecanismos de manutenção** - O que perpetua o problema ao longo do tempo?
 
-3. **Traduzir em termos estratégicos**
-   - Valor em saúde: resultados, experiência, custos
-   - Sustentabilidade: financeira, talentos, adaptabilidade
-   - Modelo de cuidado: que organização queremos ser?
+3. **Traduzir em termos estratégicos** - Valor em saúde, sustentabilidade, modelo de cuidado
 
 **Sintoma vs. causa (iceberg):**
 
 ```
 ACIMA DA ÁGUA (sintomas visíveis):
-- Filas longas
-- Custos altos
-- Insatisfação geral
+- Filas longas, custos altos, insatisfação geral
 
 ABAIXO DA ÁGUA (causas estruturais):
-- Modelo de atenção insustentável
-- Governança contratual fraca
-- Subdimensionamento crônico
+- Modelo de atenção insustentável, governança contratual fraca
 ```
 
-**Três perguntas para formular problemas:**
-
-1. Quem é afetado e como?
-2. O que perpetua o problema?
-3. Por que isso importa estrategicamente?
-
-**Autoavaliação:**
-
-- [ ] Formulo problemas em termos de causas, não de sintomas?
-- [ ] Evito vieses profissionais ao definir problemas?
-- [ ] Consulto múltiplos stakeholders para compreender o problema?
+**Três perguntas:** (1) Quem é afetado e como? (2) O que perpetua o problema? (3) Por que isso importa estrategicamente?
 
 ---
 
@@ -259,38 +216,15 @@ ABAIXO DA ÁGUA (causas estruturais):
 
 **Quatro práticas:**
 
-1. **Identificar tendências estruturais**
-   - Demográficas: envelhecimento populacional
-   - Epidemiológicas: aumento de doenças crônicas
-   - Tecnológicas: telemedicina, IA, prontuário integrado
-   - Fiscais: restrições orçamentárias crescentes
+1. **Identificar tendências estruturais** - Demográficas, epidemiológicas, tecnológicas, fiscais
 
-2. **Construir cenários alternativos**
-   - PESSIMISTA: restrições severas + demanda crescente
-   - BASE: tendência atual continua
-   - OTIMISTA: recursos adicionais + reformas estruturais
+2. **Construir cenários alternativos** - Pessimista, base, otimista
 
-3. **Desenhar trajetórias de transformação**
-   - Para cada cenário: que mudanças seriam necessárias?
-   - Decisões "robustas" (fazem sentido em múltiplos cenários)
-   - Decisões "contingentes" (só em cenários específicos)
+3. **Desenhar trajetórias de transformação** - Decisões "robustas" (múltiplos cenários) vs. "contingentes" (cenários específicos)
 
-4. **Reconhecer sinais fracos**
-   - Indicadores precoces de mudança
-   - Novos padrões de demanda
-   - Inovações tecnológicas emergentes
+4. **Reconhecer sinais fracos** - Indicadores precoces de mudança
 
-**Humildade epistêmica:**
-
-- Mais análise não elimina incerteza genuína
-- Desenvolver resiliência por meio de capacidades adaptativas
-- Experimentação disciplinada + aprendizado rápido
-
-**Autoavaliação:**
-
-- [ ] Penso em horizontes de 5-10 anos, não apenas no ciclo anual?
-- [ ] Construo múltiplos cenários, não apenas "previsão única"?
-- [ ] Identifico decisões robustas válidas em vários futuros?
+**Humildade epistêmica:** Mais análise não elimina incerteza genuína; desenvolver resiliência por meio de capacidades adaptativas.
 
 ---
 
@@ -302,35 +236,12 @@ ABAIXO DA ÁGUA (causas estruturais):
 
 |           | **URGENTE** | **NÃO URGENTE** |
 |-----------|-------------|-----------------|
-| **IMPORTANTE** | **Q1: FAZER AGORA**<br>"Crises assistenciais"<br>"Prazos críticos"<br>*Minimizar tempo aqui* | **Q2: FOCO ESTRATÉGICO**<br>"Planejamento"<br>"Desenvolvimento de capacidades"<br>"Redesenho de processos"<br>*INVESTIR TEMPO AQUI* |
-| **NÃO IMPORTANTE** | **Q3: DELEGAR/REDUZIR**<br>"Interrupções rotineiras"<br>"Reuniões desnecessárias"<br>*Proteger-se* | **Q4: ELIMINAR**<br>"Atividades de baixo valor"<br>"Burocracia"<br>*Minimizar* |
+| **IMPORTANTE** | **Q1: FAZER AGORA**<br>"Crises, prazos críticos"<br>*Minimizar tempo aqui* | **Q2: FOCO ESTRATÉGICO**<br>"Planejamento, capacidades"<br>***INVESTIR 40-60% AQUI*** |
+| **NÃO IMPORTANTE** | **Q3: DELEGAR**<br>"Interrupções, reuniões"<br>*Proteger-se* | **Q4: ELIMINAR**<br>"Baixo valor, burocracia"<br>*Minimizar* |
 
 **Armadilha comum:** viver no Q1 (apagando incêndios), sem tempo para Q2 (transformação estratégica).
 
-**Líderes estratégicos:** protegem deliberadamente 40-60% do tempo para Q2.
-
-**Quatro habilidades relacionadas:**
-
-1. **Distinguir urgente de importante**
-   - Urgente ≠ importante
-   - Importante se alinha com a direção estratégica
-
-2. **Reconhecer restrição vinculante**
-   - Em qualquer momento, apenas algumas restrições limitam o desempenho
-   - Focar onde haverá maior retorno
-
-3. **Aceitar trade-offs explícitos**
-   - Priorizar = escolher = renunciar
-   - Não dá para maximizar tudo simultaneamente
-
-4. **Sequenciar estrategicamente**
-   - O que vem primeiro cria condições para o que vem depois
-
-**Autoavaliação:**
-
-- [ ] Protejo tempo significativo para Q2 (importante + não urgente)?
-- [ ] Explicito trade-offs ao priorizar?
-- [ ] Sequencio iniciativas considerando dependências?
+**Quatro habilidades:** (1) Distinguir urgente de importante, (2) Reconhecer restrição vinculante, (3) Aceitar trade-offs explícitos, (4) Sequenciar estrategicamente.
 
 ---
 
@@ -340,43 +251,23 @@ ABAIXO DA ÁGUA (causas estruturais):
 
 **Cinco práticas concretas:**
 
-1. **Uso disciplinado de indicadores**
-   - Assistenciais: tempo de espera, taxa de resolubilidade
-   - Financeiros: custo por procedimento, execução orçamentária
-   - Qualidade: eventos adversos, readmissões
-   - Experiência: satisfação de usuários e profissionais
+1. **Uso disciplinado de indicadores** - Assistenciais, financeiros, qualidade, experiência
 
-2. **Análise temporal**
-   - Séries históricas: tendência estrutural vs. flutuação pontual
-   - Exemplo: +30% de consultas ortopédicas em 3 anos = resposta estratégica necessária
+2. **Análise temporal** - Séries históricas: tendência estrutural vs. flutuação pontual
 
-3. **Benchmarking contextualizado**
-   - Comparar com organizações similares
-   - Reconhecer limites de transferibilidade
+3. **Benchmarking contextualizado** - Comparar com organizações similares reconhecendo limites
 
-4. **Avaliação crítica de evidências**
-   - Rigor metodológico, tamanho de amostra
-   - Aplicabilidade ao contexto específico
-   - Conflitos de interesse
+4. **Avaliação crítica de evidências** - Rigor metodológico, aplicabilidade, conflitos de interesse
 
-5. **Reconhecimento de limites**
-   - Honestidade sobre incertezas
-   - Evidências informam, raramente definem
+5. **Reconhecimento de limites** - Honestidade sobre incertezas
 
 **O equilíbrio essencial:**
 
 ```
 PARALISIA ANALÍTICA ←→ EVIDÊNCIAS SUFICIENTES ←→ DECISÃO PREMATURA
-     (infinito)              (equilíbrio)              (relâmpago)
 ```
 
 **Pergunta-chave:** "Temos evidências suficientes para decidir responsavelmente?" (não "temos todas as evidências possíveis?")
-
-**Autoavaliação:**
-
-- [ ] Fundamento decisões em dados verificáveis?
-- [ ] Evito paralisia analítica e decisões prematuras?
-- [ ] Reconheço limites e incertezas das análises?
 
 ---
 
@@ -384,46 +275,26 @@ PARALISIA ANALÍTICA ←→ EVIDÊNCIAS SUFICIENTES ←→ DECISÃO PREMATURA
 
 **O que é:** navegar dimensões políticas e construir coalizões sustentáveis em contextos institucionais complexos.
 
-**Competências incluídas:**
+**Seis competências:**
 
-1. **Mapear stakeholders internos e externos**
-   - Identificar todos os atores relevantes
-   - Pacientes, profissionais, gestores, financiadores, políticos
+1. **Mapear stakeholders** - Identificar todos os atores relevantes
 
-2. **Analisar poder e interesse**
-   - Matriz de stakeholders 2x2:
+2. **Analisar poder e interesse** - Matriz 2x2:
 
 |                   | **BAIXO PODER** | **ALTO PODER** |
 |-------------------|-----------------|----------------|
 | **ALTO INTERESSE** | Manter informado | **GERENCIAR DE PERTO** |
 | **BAIXO INTERESSE** | Monitorar | Manter satisfeito |
 
-3. **Compreender arenas decisórias**
-   - Estruturas formais de governança
-   - Processos decisórios reais
+3. **Compreender arenas decisórias** - Estruturas formais vs. processos reais
 
-4. **Construir coalizões duráveis**
-   - Identificar interesses comuns
-   - Negociar soluções ganha-ganha
+4. **Construir coalizões duráveis** - Identificar interesses comuns
 
-5. **Gerir conflitos construtivamente**
-   - Tensões são inevitáveis
-   - Conflito pode ser produtivo
+5. **Gerir conflitos construtivamente** - Tensões são inevitáveis; conflito pode ser produtivo
 
-6. **Comunicar estrategicamente**
-   - "Tradução estratégica": mesma estratégia, linguagens diferentes para diferentes audiências
+6. **Comunicar estrategicamente** - "Tradução estratégica": mesma estratégia, linguagens diferentes para diferentes audiências
 
-**No contexto militar:**
-
-- Hierarquia: clareza de autoridade, mas pode criar barreiras à comunicação ascendente
-- Missão institucional: propósito unificador, mas pode gerar rigidez
-- Navegar essas tensões com sensibilidade
-
-**Autoavaliação:**
-
-- [ ] Mapeio stakeholders sistematicamente?
-- [ ] Construo coalizões antes de propor mudanças?
-- [ ] Adapto a comunicação para diferentes audiências?
+**No contexto militar:** Hierarquia oferece clareza mas pode criar barreiras à comunicação ascendente; missão institucional unifica mas pode gerar rigidez.
 
 ---
 
@@ -433,43 +304,19 @@ PARALISIA ANALÍTICA ←→ EVIDÊNCIAS SUFICIENTES ←→ DECISÃO PREMATURA
 
 **Seis práticas de visualização:**
 
-1. **Mapear modelo de atenção**
-   - Fluxos reais de pacientes (não organograma oficial)
-   - Portas de entrada, gargalos, encaminhamentos
+1. **Mapear modelo de atenção** - Fluxos reais de pacientes (não organograma oficial)
 
-2. **Visualizar estruturas de governança**
-   - Quem decide o quê
-   - Onde autoridades se sobrepõem
-   - Como a informação flui
+2. **Visualizar estruturas de governança** - Quem decide o quê, onde autoridades se sobrepõem
 
-3. **Modelar arranjos de financiamento**
-   - Diagrama de Sankey: de onde vem → para onde vai
-   - Exemplo PMDF: 480M → 90% terceirização / 10% rede própria
+3. **Modelar arranjos de financiamento** - Diagrama de Sankey: de onde vem → para onde vai
 
-4. **Mapear jornadas de pacientes**
-   - Desde marcação até alta
-   - Revelar etapas desnecessárias, tempos de espera ocultos
+4. **Mapear jornadas de pacientes** - Desde marcação até alta; revelar etapas desnecessárias
 
-5. **Desenhar arquitetura de informação**
-   - Como dados fluem entre sistemas
-   - Silos de informação, duplicações
+5. **Desenhar arquitetura de informação** - Como dados fluem entre sistemas
 
-6. **Visualizar cenários futuros**
-   - Representações lado a lado de alternativas
-   - Facilita discussão e alinhamento
+6. **Visualizar cenários futuros** - Representações lado a lado de alternativas
 
-**Valor estratégico:**
-
-- Não está na perfeição técnica
-- Está na função de pensamento coletivo e comunicação
-- Um bom modelo substitui páginas de texto
-- Facilita conversas produtivas
-
-**Autoavaliação:**
-
-- [ ] Visualizo sistemas complexos para facilitar a compreensão?
-- [ ] Uso diagramas como ferramentas de alinhamento?
-- [ ] Meus modelos simplificam, não complicam a comunicação?
+**Valor estratégico:** Um bom modelo substitui páginas de texto e facilita conversas produtivas.
 
 ---
 
@@ -482,45 +329,42 @@ PARALISIA ANALÍTICA ←→ EVIDÊNCIAS SUFICIENTES ←→ DECISÃO PREMATURA
 | **RISCO**                 | **INCERTEZA**             |
 |---------------------------|---------------------------|
 | Probabilidades conhecidas | Probabilidades desconhecidas |
-| Exemplo: dados de um jogo | Exemplo: neblina, futuro  |
 | Pode ser calculado        | Requer julgamento         |
 
 **Estratégia sempre opera em zona de incerteza genuína.**
 
-**Competências envolvidas:**
+**Seis competências envolvidas:**
 
-1. **Distinguir risco de incerteza genuína**
-   - Nem tudo pode ser quantificado
+1. **Distinguir risco de incerteza genuína** - Nem tudo pode ser quantificado
 
-2. **Avaliar trade-offs explicitamente**
-   - Toda decisão tem custos e benefícios
+2. **Avaliar trade-offs explicitamente** - Toda decisão tem custos e benefícios
 
-3. **Pensar contrafatualmente**
-   - "E se escolhermos X em vez de Y?"
-   - Consequências de diferentes cursos
+3. **Pensar contrafatualmente** - "E se escolhermos X em vez de Y?"
 
-4. **Construir alternativas criativas**
-   - Evitar falsos dilemas "A ou B"
-   - Buscar "A e B" ou "C diferente"
+4. **Construir alternativas criativas** - Evitar falsos dilemas "A ou B"
 
-5. **Deliberar colegiadamente**
-   - Decisões estratégicas se beneficiam de múltiplas perspectivas
+5. **Deliberar colegiadamente** - Decisões estratégicas se beneficiam de múltiplas perspectivas
 
-6. **Assumir responsabilidade**
-   - Decisões podem dar errado mesmo quando bem fundamentadas
-   - Estrategista maduro aceita essa realidade
+6. **Assumir responsabilidade** - Decisões podem dar errado mesmo quando bem fundamentadas
 
-**Construir robustez:**
+**Construir robustez:** Experimentação disciplinada (pilotos antes de escalar), flexibilidade planejada (preservar opções), aprendizado rápido (ajustar com base em feedback).
 
-- Experimentação disciplinada (pilotos antes de escalar)
-- Flexibilidade planejada (preservar opções)
-- Aprendizado rápido (ajustar com base em feedback)
+---
 
-**Autoavaliação:**
+## CONTEXTO PMDF: DESAFIOS E OPORTUNIDADES
 
-- [ ] Aceito que incerteza genuína é inevitável?
-- [ ] Decido responsavelmente sem buscar certeza impossível?
-- [ ] Construo robustez por meio de experimentação e aprendizado?
+**Desafios estruturais:** Subdimensionamento crônico, dependência de terceirização (90%), restrições orçamentárias, envelhecimento populacional, infraestrutura mínima.
+
+**Oportunidades estratégicas:** Clareza de missão institucional, estrutura hierárquica facilitando coordenação, estabilidade institucional, população definida, capital humano qualificado.
+
+**Dilema central:**
+
+```
+REDUZIR DEPENDÊNCIA          vs.          MANTER ACESSO E QUALIDADE
+DE TERCEIRIZAÇÃO                          DURANTE A TRANSIÇÃO
+```
+
+**Pergunta estratégica:** como fazer essa transição de forma sustentável nos próximos 5-10 anos?
 
 ---
 
@@ -547,84 +391,17 @@ PARALISIA ANALÍTICA ←→ EVIDÊNCIAS SUFICIENTES ←→ DECISÃO PREMATURA
 
 ---
 
-## FRAMEWORKS ANALÍTICOS COMPLEMENTARES
-
-### ANÁLISE PESTEL
-
-Examina forças externas que moldam o ambiente estratégico:
-
-- **P**olíticas: mudanças regulatórias, prioridades governamentais
-- **E**conômicas: restrições fiscais, inflação em saúde
-- **S**ociais: envelhecimento, mudanças de expectativas
-- **T**ecnológicas: telemedicina, IA, prontuário integrado
-- **E**cológicas: impactos ambientais
-- **L**egais: marco regulatório, responsabilidades
-
-### ANÁLISE SWOT
-
-Análise interna e externa:
-
-|             | **AJUDA**                     | **ATRAPALHA**                  |
-|-------------|------------------------------|--------------------------------|
-| **INTERNO** | Forças (Strengths)           | Fraquezas (Weaknesses)        |
-| **EXTERNO** | Oportunidades (Opportunities) | Ameaças (Threats)             |
-
-**Atenção:** SWOT é ponto de partida, não estratégia completa.
-
-### CINCO FORÇAS DE PORTER (ADAPTADO)
-
-Analisa dinâmica competitiva (adaptável a sistemas públicos):
-
-1. Poder de barganha de fornecedores (médicos, laboratórios)
-2. Poder de barganha de usuários
-3. Ameaça de novos entrantes (telemedicina, startups)
-4. Ameaça de substitutos (medicina alternativa, autocuidado)
-5. Rivalidade entre competidores existentes
-
----
-
-## PENSAMENTO ESTRATÉGICO NO CONTEXTO PMDF
-
-### Desafios Estruturais
-
-1. **Subdimensionamento crônico** vs. demanda crescente
-2. **Dependência de terceirização** (90% do orçamento) = vulnerabilidade
-3. **Restrições orçamentárias** em contexto de pressões fiscais
-4. **Envelhecimento populacional** = mudança no perfil epidemiológico
-5. **Infraestrutura mínima** = dificuldade de retenção de talentos
-
-### Oportunidades Estratégicas
-
-1. **Clareza de missão institucional** = mobiliza profissionais
-2. **Estrutura hierárquica** = coordenação facilitada
-3. **Estabilidade institucional** = planejamento de longo prazo viável
-4. **População definida** = planejamento epidemiológico sofisticado
-5. **Capital humano qualificado** = sustenta transformações
-
-### Dilema Central
-
-```
-REDUZIR DEPENDÊNCIA          vs.          MANTER ACESSO E QUALIDADE
-DE TERCEIRIZAÇÃO                          DURANTE A TRANSIÇÃO
-
-          (necessário)                              (não negociável)
-```
-
-**Pergunta estratégica:** como fazer essa transição de forma sustentável nos próximos 5-10 anos?
-
----
-
 ## CHECKLIST PRÉ-DECISÃO ESTRATÉGICA
 
 Antes de finalizar uma decisão estratégica importante, verificar:
 
-### • **KERNEL DE RUMELT**
+### KERNEL DE RUMELT
 
 - [ ] Temos diagnóstico preciso do desafio?
 - [ ] Temos política orientadora clara?
 - [ ] Temos ações coerentes que se reforçam?
 
-### • **5 ELEMENTOS DE LIEDTKA**
+### 5 ELEMENTOS DE LIEDTKA
 
 - [ ] Demonstra perspectiva sistêmica?
 - [ ] Tem intenção estratégica clara?
@@ -632,7 +409,7 @@ Antes de finalizar uma decisão estratégica importante, verificar:
 - [ ] É orientada por hipóteses testáveis?
 - [ ] Mantém oportunismo inteligente?
 
-### • **CAPACIDADES APLICADAS**
+### CAPACIDADES APLICADAS
 
 - [ ] Fizemos leitura sistêmica do contexto?
 - [ ] Formulamos o problema corretamente (causa, não sintoma)?
@@ -643,7 +420,7 @@ Antes de finalizar uma decisão estratégica importante, verificar:
 - [ ] Visualizamos a estratégia claramente?
 - [ ] Aceitamos incerteza e construímos robustez?
 
-### • **VIABILIDADE**
+### VIABILIDADE
 
 - [ ] Temos recursos necessários?
 - [ ] Stakeholders críticos estão alinhados?
@@ -654,7 +431,7 @@ Antes de finalizar uma decisão estratégica importante, verificar:
 
 ## DESENVOLVIMENTO CONTÍNUO
 
-### Cinco Modalidades Pedagógicas
+**Cinco modalidades pedagógicas:**
 
 1. **Estudo de casos** = análise contextual
 2. **Aplicação de frameworks** = pensamento disciplinado
@@ -662,57 +439,30 @@ Antes de finalizar uma decisão estratégica importante, verificar:
 4. **Mentorias** = sabedoria tácita
 5. **Leitura crítica** = repertório expandido
 
-### Prática Deliberada
+**Prática deliberada:**
 
-**Semanal:**
-
-- Aplicar um framework em decisão real
-- Mapear um sistema usando visualização
-- Identificar um loop causal no seu contexto
-
-**Mensal:**
-
-- Autoavaliar-se nas 8 capacidades
-- Ler um caso de estratégia em saúde
-- Discutir dilema estratégico com um par
-
-**Anual:**
-
-- Revisar a estratégia do seu setor
-- Construir cenários de 5-10 anos
-- Mentorar colega em pensamento estratégico
+- **Semanal:** Aplicar um framework em decisão real, mapear um sistema, identificar loop causal
+- **Mensal:** Autoavaliar-se nas 8 capacidades, ler caso de estratégia, discutir dilema com par
+- **Anual:** Revisar estratégia do setor, construir cenários 5-10 anos, mentorar colega
 
 ---
 
 ## REFERÊNCIAS ESSENCIAIS
 
-**Rumelt, R. P. (2011).** *Good Strategy/Bad Strategy: The Difference and Why It Matters.* Crown Business.
+**Rumelt, R. P. (2011).** *Good Strategy/Bad Strategy: The Difference and Why It Matters.* Crown Business. - Conceito de kernel, distinção entre estratégia genuína e retórica vazia
 
-- Conceito de kernel, distinção entre estratégia genuína e retórica vazia
+**Liedtka, J. M. (1998).** Strategic thinking: Can it be taught? *Long Range Planning*, 31(1), 120-129. - Os 5 elementos fundamentais do pensamento estratégico
 
-**Liedtka, J. M. (1998).** Strategic thinking: Can it be taught? *Long Range Planning*, 31(1), 120-129.
+**Ginter, P. M., Duncan, W. J., & Swayne, L. E. (2025).** *The Strategic Management of Health Care Organizations* (9ª ed.). Jossey-Bass. - Distinção pensamento-planejamento-momentum, gestão estratégica em saúde
 
-- Os 5 elementos fundamentais do pensamento estratégico
-
-**Ginter, P. M., Duncan, W. J., & Swayne, L. E. (2018).** *The Strategic Management of Health Care Organizations* (8ª ed.). Jossey-Bass.
-
-- Distinção pensamento-planejamento-momentum, gestão estratégica em saúde
-
-**Huebner, C., & Flessa, S. (2022).** Strategic Management in Healthcare: A Call for Long-Term and Systems-Thinking in an Uncertain System. *Int. J. Environ. Res. Public Health*, 19(14), 8617.
-
-- Complexidade, dinamicidade e incerteza em sistemas de saúde contemporâneos
+**Huebner, C., & Flessa, S. (2022).** Strategic Management in Healthcare: A Call for Long-Term and Systems-Thinking in an Uncertain System. *Int. J. Environ. Res. Public Health*, 19(14), 8617. - Complexidade, dinamicidade e incerteza em sistemas de saúde contemporâneos
 
 ---
 
 ## LEMBRE-SE
 
 > **"Pensamento estratégico é capacidade DESENVOLVÍVEL, não dom inato."**
->
+
 > **"Estas oito capacidades, articuladas e desenvolvidas deliberadamente, definem o gestor estratégico em saúde: alguém que lê o sistema de forma sofisticada, formula problemas estruturais com precisão, pensa em horizontes temporais estendidos, prioriza com disciplina, fundamenta decisões em evidências, navega dimensões políticas com habilidade, modela sistemas de forma clara e decide responsavelmente sob incerteza."**
->
+
 > **"O investimento na formação de futuros líderes reconhece que a sustentabilidade nos próximos 10-15 anos dependerá fundamentalmente da qualidade de liderança estratégica em posições-chave."**
-
----
-
-**Versão 1.0 | Módulo 1: Desenvolvendo o Pensamento Estratégico**  
-**Curso de Gestão Estratégica em Saúde | PMDF | 2025**

@@ -451,8 +451,3 @@ Limiar PMDF sugerido: R$ 100.000/QALY
 > **"O gestor de saúde da PMDF não é administrador de contratos - é ARQUITETO DE UM SISTEMA que desenha estruturas, estabelece regras, cria incentivos e molda comportamentos."**
 
 > **"Cinco linhas estratégicas: (1) Porta de entrada coordenadora, (2) Inteligência de dados, (3) Contratos por desempenho, (4) Saúde ocupacional integrada, (5) Formação continuada em gestão."**
-
----
-
-**Versão 2.0 | Módulo 2: Sistemas de Saúde Comparados**
-**Curso de Gestão Estratégica em Saúde | PMDF | 2025**
